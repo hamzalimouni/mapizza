@@ -1,7 +1,7 @@
 
 const CategoryPage = () => {
     return (
-        <div >CategoryPage</div>
+        <div className="flex text-red-500">CategoryPage</div>
     )
 }
 
